@@ -54,3 +54,17 @@
 |           [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)           |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 2주차: 2024-10-14 ~ 2024-10-21</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|           [\[PCCP 기출문제\] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)            |
+|               [\[PCCP 기출문제\] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)                |
+|               [\[PCCP 기출문제\] 2번 / 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                |
+| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) |
+|           [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)           |
+
+</details>
