@@ -46,4 +46,15 @@ class Solution {
 
         return answer;
     }
+
+    public String calculate(int a, int b, String operator, int base){
+        int result = 0;
+
+        if (operator.equals("+")) {
+            result = a + b;
+        } else if (operator.equals("-")) {
+            result = a - b;
+        }
+        return Integer.toString(result, base);
+    }
 }
