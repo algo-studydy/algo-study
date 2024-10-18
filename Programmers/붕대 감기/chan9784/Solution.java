@@ -11,12 +11,11 @@ class Solution {
             // 몬스터가 공격할 때
             if(attacks[idx][0] == sec) {
                 skill = 0;
-                int temp = answer - attacks[idx][1];
+                answer -= attacks[idx][1];
                 // 공격을 받고 체력이 0 이하가 되면 -1
-                if(temp <= 0) {
+                if(answer <= 0) {
                     return -1;
                 }
-                answer = temp;
                 idx++;
             } else {
                 skill++;
