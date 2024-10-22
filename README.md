@@ -68,3 +68,17 @@
 |           [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)           |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 3주차: 2024-10-21 ~ 2024-10-28</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|           [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)            |
+|               [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)                |
+|               [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)                |
+| [[HSAT 7회 정기 코딩 인증평가 기출] 순서대로 방문하기](https://softeer.ai/practice/6246) |
+|           [[HSAT 7회 정기 코딩 인증평가 기출] 자동차 테스트](https://softeer.ai/practice/6247)           |
+
+</details>
