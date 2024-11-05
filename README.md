@@ -70,20 +70,7 @@
 </details>
 
 <details>
-    <summary><strong>✈️ 3주차: 2024-10-21 ~ 2024-10-28</strong></summary>
-<br/>
-
-|                                                   문제                                                    |
-| :-------------------------------------------------------------------------------------------------------: |
-|           [\[PCCP 기출문제\] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)            |
-|               [\[PCCP 기출문제\] 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)                |
-|               [\[PCCP 기출문제\] 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)                |
-| [\[PCCP 기출문제\] 4번 / 수레 움직이기](https://softeer.ai/practice/250134) |
-
-</details>
-
-<details>
-    <summary><strong>✈️ 4주차: 2024-11-05 ~ 2024-11-12</strong></summary>
+    <summary><strong>✈️ 3주차: 2024-11-05 ~ 2024-11-12</strong></summary>
 <br/>
 
 |                                                   문제                                                    |
@@ -95,3 +82,17 @@
 |           [[HSAT 7회 정기 코딩 인증평가 기출] 자동차 테스트](https://softeer.ai/practice/6247)           |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 4주차: 2024-10-21 ~ 2024-10-28</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|           [\[PCCP 기출문제\] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)            |
+|               [\[PCCP 기출문제\] 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)                |
+|               [\[PCCP 기출문제\] 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)                |
+| [\[PCCP 기출문제\] 4번 / 수레 움직이기](https://softeer.ai/practice/250134) |
+
+</details>
+
