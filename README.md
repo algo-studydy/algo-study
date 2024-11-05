@@ -92,7 +92,7 @@
 |           [\[PCCP 기출문제\] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)            |
 |               [\[PCCP 기출문제\] 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)                |
 |               [\[PCCP 기출문제\] 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)                |
-| [\[PCCP 기출문제\] 4번 / 수레 움직이기](https://softeer.ai/practice/250134) |
+| [\[PCCP 기출문제\] 4번 / 수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134) |
 
 </details>
 
