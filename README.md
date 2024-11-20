@@ -96,3 +96,16 @@
 
 </details>
 
+<details>
+    <summary><strong>✈️ 5주차: 2024-11-19 ~ 2024-11-26</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)            |
+|               [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)          |
+|               [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)                |
+|               [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
+|               [공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391)           |
+
+</details>
