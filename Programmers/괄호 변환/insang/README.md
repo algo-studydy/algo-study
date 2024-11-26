@@ -1,4 +1,4 @@
-# [Programmers] 요격 시스템
+# [Programmers] 괄호 변환
 
 ### 접근법
 
