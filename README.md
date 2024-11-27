@@ -109,3 +109,16 @@
 |               [공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391)           |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 6주차: 2024-11-26 ~ 2024-12-03</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)            |
+|               [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)          |
+|               [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)                |
+|               [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |
+
+</details>
