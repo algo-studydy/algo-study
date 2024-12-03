@@ -122,3 +122,18 @@
 |               [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 6주차: 2024-11-26 ~ 2024-12-03</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479)            |
+|               [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480)          |
+|               [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)                |
+|               [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) |
+|               [이분 그래프](https://www.acmicpc.net/problem/1707) |
+|               [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |
+
+</details>
