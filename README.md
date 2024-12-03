@@ -124,7 +124,7 @@
 </details>
 
 <details>
-    <summary><strong>✈️ 6주차: 2024-11-26 ~ 2024-12-03</strong></summary>
+    <summary><strong>✈️ 7주차: 2024-12-03 ~ 2024-12-10</strong></summary>
 <br/>
 
 |                                                   문제                                                    |
