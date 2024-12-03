@@ -1,5 +1,6 @@
-import java.lang.*;
 import java.util.*;
+
+
 class Solution {
     public int solution(int N, int number) {
         if (N == number) {
@@ -25,16 +26,21 @@ class Solution {
             dp.get(i).add(tmp);
 
             // i-1까지 사용가능한 조합들을 이용한 계산 추가
-            for (int j = 1; j < i; j++) {
+            for (int j = 1; j < i/2+1; j++) {
                 // N을 총i 번 사용하는 조합을 계산하기 위해 j, i-j dp 의 원소를 이용
                 for (int num1 : dp.get(j)) {
                     for (int num2 : dp.get(i - j)) {
                         dp.get(i).add(num1 + num2); // 덧셈
                         dp.get(i).add(num1 - num2); // 뺄셈
+                        dp.get(i).add(num2 - num1); // 뺄셈
                         dp.get(i).add(num1 * num2); // 곱셈
                         if (num2 != 0) {
                             dp.get(i).add(num1 / num2); // 나눗셈
                         }
+                        if (num1 != 0) {
+                            dp.get(i).add(num2 / num1); // 나눗셈
+                        }
+
                     }
                 }
             }
