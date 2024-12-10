@@ -137,3 +137,16 @@
 |               [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 8주차: 2024-12-10 ~ 2024-12-17</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [최단경로](https://www.acmicpc.net/problem/1753)            |
+|               [숨바꼭질3](https://www.acmicpc.net/problem/13549)          |
+|               [타임머신](https://www.acmicpc.net/problem/11657)                |
+|               [플로이드](https://www.acmicpc.net/problem/11404) |
+
+</details>
