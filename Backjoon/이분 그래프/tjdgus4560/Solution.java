@@ -1,56 +1,64 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
 
+public class Main {
+    static int V;
+    static int E;
+    static int[] visit;
+    static ArrayList<Integer>[] adjList;
+    static boolean answer;
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-class Solution {
-    public int solution(int N, int number) {
-        if (N == number) {
-            return 1;
-        }
-
-        // 초기화
-        List<Set<Integer>> dp = new ArrayList<>();
-        for (int i = 0; i <= 8; i++) {
-            dp.add(new HashSet<>());
-        }
-
-        // 1번 사용했을 때는 N만 가능
-        dp.get(1).add(N);
-
-        // N을 i번 사용하면서 가능한 조합들
-        for(int i = 2; i<=8 ;i++){
-            // N을 이어붙인 숫자
-            int tmp = 0;
-            for(int j = 0; j<i ;j++){
-                tmp += Math.pow(10, j)*N;
+        int testcase = sc.nextInt();
+        for(int i = 0; i < testcase; i++){
+            V = sc.nextInt();
+            E = sc.nextInt();
+            visit = new int[V + 1];
+            adjList = new ArrayList[V + 1];
+            for(int j = 0 ; j < V + 1 ; j++){
+                adjList[j] = new ArrayList<>();
             }
-            dp.get(i).add(tmp);
-
-            // i-1까지 사용가능한 조합들을 이용한 계산 추가
-            for (int j = 1; j < i/2+1; j++) {
-                // N을 총i 번 사용하는 조합을 계산하기 위해 j, i-j dp 의 원소를 이용
-                for (int num1 : dp.get(j)) {
-                    for (int num2 : dp.get(i - j)) {
-                        dp.get(i).add(num1 + num2); // 덧셈
-                        dp.get(i).add(num1 - num2); // 뺄셈
-                        dp.get(i).add(num2 - num1); // 뺄셈
-                        dp.get(i).add(num1 * num2); // 곱셈
-                        if (num2 != 0) {
-                            dp.get(i).add(num1 / num2); // 나눗셈
-                        }
-                        if (num1 != 0) {
-                            dp.get(i).add(num2 / num1); // 나눗셈
-                        }
-
+            for(int j = 0; j < E; j++){
+                int from = sc.nextInt();
+                int to = sc.nextInt();
+                adjList[from].add(to);
+                adjList[to].add(from);
+            }
+            answer = true;
+            for(int k = 1; k < V + 1; k++){
+                if(visit[k] == 0){
+                    if (!bfs(k)) {
+                        answer = false;
+                        break;
                     }
                 }
             }
-
-            // 목표 숫자가 dp[k]에 있다면 종료
-            if (dp.get(i).contains(number)) {
-                return i;
+            if(answer){
+                System.out.println("YES");
+            }else{
+                System.out.println("NO");
             }
         }
+    }
 
-        return -1;
+    private static boolean bfs(int n) {
+        Queue<Integer> q = new LinkedList<>();
+        visit[n] = 1;
+        q.add(n);
+        while(!q.isEmpty()){
+            int v = q.poll();
+            for(int i : adjList[v]){
+                if(visit[i] == 0){
+                    visit[i] = -visit[v];
+                    q.add(i);
+                }else if(visit[i] == visit[v]){
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 }
