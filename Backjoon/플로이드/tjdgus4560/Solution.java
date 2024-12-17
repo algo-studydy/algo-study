@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    static final int INF = Integer.MAX_VALUE;
+    static final int INF = 10000000;
     static int n, m;
     static int[][] dist;
 
