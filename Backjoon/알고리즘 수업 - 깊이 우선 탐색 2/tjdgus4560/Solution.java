@@ -1,56 +1,73 @@
-import java.util.*;
+package Baekjoon;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
 
-class Solution {
-    public int solution(int N, int number) {
-        if (N == number) {
-            return 1;
+public class 알고리즘수업_깊이우선탐색2 {
+    static int V;
+    static int E;
+    static int R;
+    static boolean[] visited;
+    static int[] visit;
+    static int visitedTime = 1;
+    static ArrayList<Integer>[] adjList;
+
+//    static class Node{
+//        int vertex;
+//        Node next;
+//        public Node(int vertex, Node next){
+//            this.vertex = vertex;
+//            this.next = next;
+//        }
+//    }
+
+    public static void main(String[] args) {
+        //입력
+        Scanner sc = new Scanner(System.in);
+        int V = sc.nextInt();
+        int E = sc.nextInt();
+        int R = sc.nextInt();
+
+        //인접리스트 생성, 초기화
+        adjList = new ArrayList[V + 1];
+        for(int i = 0; i < V + 1; i++){
+            adjList[i] = new ArrayList<>();
         }
 
-        // 초기화
-        List<Set<Integer>> dp = new ArrayList<>();
-        for (int i = 0; i <= 8; i++) {
-            dp.add(new HashSet<>());
+
+        for(int i = 0 ; i < E ; i++ ){
+            int from = sc.nextInt();
+            int to = sc.nextInt();
+
+            adjList[from].add(to);
+            adjList[to].add(from);
+        }
+        for(ArrayList<Integer> list : adjList){
+            Collections.sort(list, Collections.reverseOrder());
         }
 
-        // 1번 사용했을 때는 N만 가능
-        dp.get(1).add(N);
+        //dfs
+        visited = new boolean[V + 1];
+        visit = new int[V + 1];
+        dfs(adjList[R],R);
 
-        // N을 i번 사용하면서 가능한 조합들
-        for(int i = 2; i<=8 ;i++){
-            // N을 이어붙인 숫자
-            int tmp = 0;
-            for(int j = 0; j<i ;j++){
-                tmp += Math.pow(10, j)*N;
-            }
-            dp.get(i).add(tmp);
 
-            // i-1까지 사용가능한 조합들을 이용한 계산 추가
-            for (int j = 1; j < i/2+1; j++) {
-                // N을 총i 번 사용하는 조합을 계산하기 위해 j, i-j dp 의 원소를 이용
-                for (int num1 : dp.get(j)) {
-                    for (int num2 : dp.get(i - j)) {
-                        dp.get(i).add(num1 + num2); // 덧셈
-                        dp.get(i).add(num1 - num2); // 뺄셈
-                        dp.get(i).add(num2 - num1); // 뺄셈
-                        dp.get(i).add(num1 * num2); // 곱셈
-                        if (num2 != 0) {
-                            dp.get(i).add(num1 / num2); // 나눗셈
-                        }
-                        if (num1 != 0) {
-                            dp.get(i).add(num2 / num1); // 나눗셈
-                        }
+        for(int i = 1 ; i < V + 1 ; i++){
+            System.out.println(visit[i]);
+        }
 
-                    }
-                }
-            }
 
-            // 목표 숫자가 dp[k]에 있다면 종료
-            if (dp.get(i).contains(number)) {
-                return i;
+    }
+
+    public static void dfs(ArrayList<Integer> head,int v){
+        visited[v] = true;
+        visit[v] = visitedTime++;
+        for(int i : head){
+            if(!visited[i]){
+                dfs(adjList[i], i);
             }
         }
 
-        return -1;
     }
 }
