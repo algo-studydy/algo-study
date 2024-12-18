@@ -150,3 +150,17 @@
 |               [플로이드](https://www.acmicpc.net/problem/11404) |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 9주차: 2024-12-17 ~ 2024-12-24</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416)            |
+|               [알고리즘 수업 - 피보나치 수 2](https://www.acmicpc.net/problem/24417)          |
+|               [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)                |
+|               [RGB거리](https://www.acmicpc.net/problem/1149) |
+|               [정수 삼각형](https://www.acmicpc.net/problem/1932) |
+
+</details>
