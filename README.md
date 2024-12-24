@@ -164,3 +164,17 @@
 |               [정수 삼각형](https://www.acmicpc.net/problem/1932) |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 10주차: 2024-12-24 ~ 2024-12-31</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)            |
+|               [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)          |
+|               [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)                |
+|               [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
+|               [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |
+
+</details>
