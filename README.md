@@ -178,3 +178,17 @@
 |               [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 11주차: 2024-12-31 ~ 2025-01-07</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [01타일](https://www.acmicpc.net/problem/1904)            |
+|               [파도반 수열](https://www.acmicpc.net/problem/9461)          |
+|               [연속합](https://www.acmicpc.net/problem/1912)                |
+|               [계단 오르기](https://www.acmicpc.net/problem/2579) |
+|               [평범한 배낭](https://www.acmicpc.net/problem/12865) |
+
+</details>
