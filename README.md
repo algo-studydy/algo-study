@@ -192,3 +192,15 @@
 |               [평범한 배낭](https://www.acmicpc.net/problem/12865) |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 12주차: 2025-01-07 ~ 2025-01-14</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)            |
+|               [동전 1](https://www.acmicpc.net/problem/2293)          |
+|               [내리막 길](https://www.acmicpc.net/problem/1520)                |
+
+</details>
