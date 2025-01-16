@@ -204,3 +204,15 @@
 |               [내리막 길](https://www.acmicpc.net/problem/1520)                |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 13주차: 2025-01-14 ~ 2025-01-21</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [전깃줄](https://www.acmicpc.net/problem/2565)            |
+|               [LCS](https://www.acmicpc.net/problem/9251)          |
+|               [양팔저울](https://www.acmicpc.net/problem/2629)                |
+
+</details>
