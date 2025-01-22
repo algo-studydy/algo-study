@@ -216,3 +216,16 @@
 |               [양팔저울](https://www.acmicpc.net/problem/2629)                |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 14주차: 2025-01-21 ~ 2025-01-28</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)            |
+|               [수열](https://www.acmicpc.net/problem/2559)          |
+|               [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)                |
+|               [나머지 합](https://www.acmicpc.net/problem/10986)                |
+
+</details>
