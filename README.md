@@ -229,3 +229,15 @@
 |               [나머지 합](https://www.acmicpc.net/problem/10986)                |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 15주차: 2025-01-28 ~ 2025-02-04</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [곱셈](https://www.acmicpc.net/problem/1629)            |
+|               [색종이 만들기](https://www.acmicpc.net/problem/2630)          |
+|               [행렬 곱셈](https://www.acmicpc.net/problem/2740)                |
+
+</details>
