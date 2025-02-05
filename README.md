@@ -241,3 +241,15 @@
 |               [행렬 곱셈](https://www.acmicpc.net/problem/2740)                |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 16주차: 2025-02-04 ~ 2025-02-11</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [로봇이 지나간 경로](https://softeer.ai/practice/6275)            |
+|               [출퇴근길](https://softeer.ai/practice/6248)          |
+|               [염기서열 커버](https://softeer.ai/practice/6249)                |
+
+</details>
