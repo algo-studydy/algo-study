@@ -253,3 +253,15 @@
 |               [염기서열 커버](https://softeer.ai/practice/6249)                |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 17주차: 2025-02-11 ~ 2025-02-18</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [로봇 청소기](https://www.acmicpc.net/problem/14503)            |
+|               [외계인의 기타 연주](https://www.acmicpc.net/problem/2841)          |
+|               [트럭](https://www.acmicpc.net/problem/13335)               |
+
+</details>
