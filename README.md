@@ -265,3 +265,16 @@
 |               [트럭](https://www.acmicpc.net/problem/13335)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 18주차: 2025-02-18 ~ 2025-02-25</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [두 수의 합](https://www.acmicpc.net/problem/3273)            |
+|               [두 용액](https://www.acmicpc.net/problem/2470)          |
+|               [부분합](https://www.acmicpc.net/problem/1806)               |
+|               [소수의 연속합](https://www.acmicpc.net/problem/1644)               |
+
+</details>
