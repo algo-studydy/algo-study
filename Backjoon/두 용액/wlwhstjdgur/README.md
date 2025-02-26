@@ -1,4 +1,4 @@
-# [Backjoon] 부분 합
+# [Backjoon] 두 용액
 
 ### 접근법
 
