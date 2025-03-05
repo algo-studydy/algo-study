@@ -1,4 +1,4 @@
-# [Backjoon] 오큰등수
+# [Backjoon] 오등큰수
 
 ### 접근법
 
