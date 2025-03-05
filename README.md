@@ -291,3 +291,16 @@
 |               [최종 순위](https://www.acmicpc.net/problem/3665)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 20주차: 2025-03-05 ~ 2025-03-11</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [주사위 굴리기 2](https://www.acmicpc.net/problem/23288)            |
+|               [문자열 교환](https://www.acmicpc.net/problem/1522)          |
+|               [파티](https://www.acmicpc.net/problem/1238)               |
+|               [N번째 큰 수](https://www.acmicpc.net/problem/2075)               |
+
+</details>
