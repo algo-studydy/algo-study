@@ -304,3 +304,16 @@
 |               [N번째 큰 수](https://www.acmicpc.net/problem/2075)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 21주차: 2025-03-12 ~ 2025-03-18</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)            |
+|               [네트워크 연결](https://www.acmicpc.net/problem/1922)          |
+|               [토마토](https://www.acmicpc.net/problem/7569)               |
+|               [촌수계산](https://www.acmicpc.net/problem/2644)               |
+
+</details>
