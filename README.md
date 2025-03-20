@@ -317,3 +317,16 @@
 |               [촌수계산](https://www.acmicpc.net/problem/2644)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 22주차: 2025-03-19 ~ 2025-03-26</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [공유기 설치](https://www.acmicpc.net/problem/2110)            |
+|               [타일 채우기](https://www.acmicpc.net/problem/2133)          |
+|               [물통](https://www.acmicpc.net/problem/2251)               |
+|               [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)               |
+
+</details>
