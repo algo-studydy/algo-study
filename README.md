@@ -330,3 +330,16 @@
 |               [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 23주차: 2025-03-26 ~ 2025-04-02</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [좋다](https://www.acmicpc.net/problem/1253)            |
+|               [동전 2](https://www.acmicpc.net/problem/2294)          |
+|               [전화번호 목록](https://www.acmicpc.net/problem/5052)               |
+|               [아기 상어](https://www.acmicpc.net/problem/16236)               |
+
+</details>
