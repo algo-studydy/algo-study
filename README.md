@@ -343,3 +343,16 @@
 |               [아기 상어](https://www.acmicpc.net/problem/16236)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 24주차: 2025-04-03 ~ 2025-04-09</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [줄세우기](https://www.acmicpc.net/problem/2631)            |
+|               [중량제한](https://www.acmicpc.net/problem/1939)          |
+|               [어두운 건 무서워](https://www.acmicpc.net/problem/16507)               |
+|               [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)               |
+
+</details>
