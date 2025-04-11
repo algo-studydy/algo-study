@@ -356,3 +356,16 @@
 |               [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 25주차: 2025-04-10 ~ 2025-04-17</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [장군](https://www.acmicpc.net/problem/16509)            |
+|               [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669)          |
+|               [쿠키 자르기](https://www.acmicpc.net/problem/31455)               |
+|               [크로스워드](https://www.acmicpc.net/problem/1706)               |
+
+</details>
