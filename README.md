@@ -369,3 +369,15 @@
 |               [크로스워드](https://www.acmicpc.net/problem/1706)               |
 
 </details>
+<details>
+    <summary><strong>✈️ 26주차: 2025-04-18 ~ 2025-04-24</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)            |
+|               [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)          |
+|               [통나무 옮기기](https://www.acmicpc.net/problem/1938)               |
+|               [콘센트](https://www.acmicpc.net/problem/23843)               |
+
+</details>
