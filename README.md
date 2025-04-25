@@ -381,3 +381,15 @@
 |               [콘센트](https://www.acmicpc.net/problem/23843)               |
 
 </details>
+<details>
+    <summary><strong>✈️ 27주차: 2025-04-24 ~ 2025-04-30</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [적록색약](https://www.acmicpc.net/problem/10026)            |
+|               [카드 정렬하기](https://www.acmicpc.net/problem/1715)          |
+|               [탈출](https://www.acmicpc.net/problem/3055)               |
+|               [파일 합치기](https://www.acmicpc.net/problem/11066)               |
+
+</details>
