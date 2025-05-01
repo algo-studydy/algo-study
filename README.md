@@ -393,3 +393,15 @@
 |               [파일 합치기](https://www.acmicpc.net/problem/11066)               |
 
 </details>
+<details>
+    <summary><strong>✈️ 28주차: 2025-05-01 ~ 2025-05-07</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [센서](https://www.acmicpc.net/problem/2212)            |
+|               [용돈 관리](https://www.acmicpc.net/problem/6236)               |
+|               [유령의 집 탈출하기](https://www.acmicpc.net/problem/30894)          |
+|               [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)               |
+
+</details>
