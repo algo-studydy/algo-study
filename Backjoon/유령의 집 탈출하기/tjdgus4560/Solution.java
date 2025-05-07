@@ -10,77 +10,98 @@ public class Main {
             this.c = c;
         }
     }
-    static int[] dr = {3, 3, 2, -2, -3, -3, -2, 2};
-    static int[] dc = {-2, 2, 3, 3, 2, -2, -3, -3};
 
-    static int[][] checkR ={
-            {1, 2}, {1, 2}, {0, 1}, {0, -1},
-            {-1, -2}, {-1, -2}, {0, -1}, {0, 1}
-    };
-    static int[][] checkC ={
-            {0, -1}, {0, 1}, {1, 2}, {1, 2},
-            {0, 1}, {0, -1}, {1, -2}, {1, -2}
-    };
+    static int N,M;
+    static Point start, end;
+    static boolean[][][] visited; // [r][c][t(0~3)]
+    static char[][] map;
 
-    static boolean[][] visited;
-    static int min = Integer.MAX_VALUE;
+    static int[] dr = {0,1,0,-1}; //0 : 오른쪽, 1 : 아래, 2 : 왼쪽, 3 : 위
+    static int[] dc = {1,0,-1,0};
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int sR = sc.nextInt(); // 시작지점
-        int sC = sc.nextInt();
-        int eR = sc.nextInt(); // 종료지점
-        int eC = sc.nextInt();
-        visited = new boolean[10][9];
+        N = sc.nextInt();
+        M = sc.nextInt();
+        start = new Point(sc.nextInt()-1, sc.nextInt()-1);
+        end = new Point(sc.nextInt()-1, sc.nextInt()-1);
+        map = new char[N][M];
+        visited = new boolean[N][M][4];
 
-        bfs(sR, sC, eR, eC);
+        sc.nextLine(); // 개행문자 제거
 
-        System.out.println(min == Integer.MAX_VALUE ? -1 : min);
-    }
+        for(int i=0; i<N; i++){
+            String s = sc.nextLine();
+            for(int j=0; j<M; j++){
+                map[i][j] = s.charAt(j);
+            }
+        } // 입력끝
 
-    private static void bfs(int sR, int sC, int eR, int eC) {
-        Queue<Point> q = new LinkedList<>();
-        q.add(new Point(sR, sC));
-        visited[sR][sC] = true;
-
-        int count =0;
-        L : while(!q.isEmpty()){
-            count++;
-
-            int size = q.size();
-            for(int t=0; t<size; t++){
-                Point p = q.poll();
-
-                for(int d=0; d<8; d++){
-                    int nr = p.r + dr[d];
-                    int nc = p.c + dc[d];
-
-                    int checkR1 = p.r + checkR[d][0];
-                    int checkC1 = p.c + checkC[d][0];
-
-                    int checkR2 = p.r + checkR[d][1];
-                    int checkC2 = p.c + checkC[d][1];
-
-                    //경계선, 방문 체크
-                    if(nr>=0 && nr<10 && nc>=0 && nc<9 && !visited[nr][nc]){
-                        // 이동경로 방해물 체크
-                        if( (checkR1 == eR && checkC1 == eC) || (checkR2 == eR && checkC2 == eC)){
-                            continue;
-                        }
-                        // 종료조건 체크
-                        if( nr == eR && nc == eC){
-                            min = count;
-                            break L;
-                        }
-
-                        visited[nr][nc] = true;
-                        q.add(new Point(nr, nc));
+        // 각타임마다 유령이 바라보는곳 전처리
+        for(int t=0; t<4; t++){
+            for(int i=0; i<N; i++){
+                for(int j=0; j<M; j++){
+                    if(map[i][j] != '.' && map[i][j] != '#'){
+                        int d = (map[i][j] - '0' + t) % 4; //시각에 따른 바라보는 방향
+                        ghostSee(i, j, t, d);
                     }
                 }
             }
         }
 
+        int ans = bfs();
+        System.out.println(ans == -1 ? "GG" : ans);
+    }
 
+    private static int bfs() {
+        Queue<Point> q = new LinkedList<>();
+        q.add(start);
+        int time =0;
+        visited[start.r][start.c][time] = true;
+
+        while(!q.isEmpty()){
+            time++;
+
+            int size = q.size();
+            for(int s=0; s<size; s++){
+                Point p = q.poll();
+
+                if(!visited[p.r][p.c][time%4]){
+                    q.add(p); //제자리에서 움직이지 않는경우
+                    visited[p.r][p.c][time%4] = true;
+                }
+
+                for(int d=0; d<4; d++){
+                    int nr = p.r + dr[d];
+                    int nc = p.c + dc[d];
+
+                    if(nr>=0 && nr<N && nc>=0 && nc<M && !visited[nr][nc][time%4] && map[nr][nc] == '.'){
+
+                        if(nr == end.r && nc == end.c) return time; //종료지점 도달 time리턴
+
+                        q.add(new Point(nr, nc));
+                        visited[nr][nc][time%4] = true;
+                    }
+                }
+            }
+
+
+        }
+
+        return -1;
+    }
+
+    // 유령이 시각에 따라 바라보는곳 전처리용
+    private static void ghostSee(int i, int j, int t, int d) {
+        visited[i][j][t] = true;
+        int nr = i + dr[d];
+        int nc = j + dc[d];
+
+        while(nr>=0 && nr<N && nc>=0 && nc<M && map[nr][nc] == '.'){
+            visited[nr][nc][t] = true;
+            nr+=dr[d];
+            nc+=dc[d];
+        }
     }
 }
