@@ -405,3 +405,15 @@
 |               [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)               |
 
 </details>
+<details>
+    <summary><strong>✈️ 29주차: 2025-05-08 ~ 2025-05-14</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [퇴사2](https://www.acmicpc.net/problem/15486)            |
+|               [입국심사](https://www.acmicpc.net/problem/3079)               |
+|               [로프](https://www.acmicpc.net/problem/2217)          |
+|               [스타트 택시](https://www.acmicpc.net/problem/19238)               |
+
+</details>
