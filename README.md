@@ -429,3 +429,16 @@
 |               [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)               |
 
 </details>
+<details>
+    <summary><strong>✈️ 31주차: 2025-05-22 ~ 2025-05-28</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [레이저 통신](https://www.acmicpc.net/problem/6087)               |
+|               [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)            |
+|               [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869)               |
+|               [주식](https://www.acmicpc.net/problem/11501)          |
+
+
+</details>
