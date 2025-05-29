@@ -442,3 +442,17 @@
 
 
 </details>
+<details>
+    <summary><strong>✈️ 32주차: 2025-05-29 ~ 2025-06-04</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [동전 1](https://www.acmicpc.net/problem/2293)               |
+|               [세 수의 합](https://www.acmicpc.net/problem/2295)            |
+|               [연구소 3](https://www.acmicpc.net/problem/17142)               |
+|               [트리의 지름](https://www.acmicpc.net/problem/1967)          |
+
+
+</details>
+
