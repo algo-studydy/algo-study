@@ -452,7 +452,17 @@
 |               [세 수의 합](https://www.acmicpc.net/problem/2295)            |
 |               [연구소 3](https://www.acmicpc.net/problem/17142)               |
 |               [트리의 지름](https://www.acmicpc.net/problem/1967)          |
+</details>
 
+<details>
+    <summary><strong>✈️ 33주차: 2025-06-12 ~ 2025-06-18</strong></summary>
+<br/>
 
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [합분해](https://www.acmicpc.net/problem/2225)               |
+|               [휴게소 세우기](https://www.acmicpc.net/problem/1477)            |
+|               [빙산](https://www.acmicpc.net/problem/2573)               |
+|               [경사로](https://www.acmicpc.net/problem/14890)          |
 </details>
 
