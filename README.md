@@ -465,4 +465,15 @@
 |               [빙산](https://www.acmicpc.net/problem/2573)               |
 |               [경사로](https://www.acmicpc.net/problem/14890)          |
 </details>
+<details>
+    <summary><strong>✈️ 34주차: 2025-06-18 ~ 2025-06-25</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [회사 문화 1](https://www.acmicpc.net/problem/14267)               |
+|               [A와 B 2](https://www.acmicpc.net/problem/12919)            |
+|               [지름길](https://www.acmicpc.net/problem/1446)               |
+|               [탑 보기](https://www.acmicpc.net/problem/22866)          |
+</details>
 
