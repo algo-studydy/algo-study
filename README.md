@@ -476,4 +476,16 @@
 |               [지름길](https://www.acmicpc.net/problem/1446)               |
 |               [탑 보기](https://www.acmicpc.net/problem/22866)          |
 </details>
+<details>
+    <summary><strong>✈️ 35주차: 2025-06-25 ~ 2025-07-02</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [탑](https://www.acmicpc.net/problem/2493)               |
+|               [나머지 합](https://www.acmicpc.net/problem/10986)            |
+|               [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)               |
+|               [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)          |
+</details>
+
 
