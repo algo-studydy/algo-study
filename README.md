@@ -488,4 +488,15 @@
 |               [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)          |
 </details>
 
+<details>
+    <summary><strong>✈️ 36주차: 2025-07-02 ~ 2025-07-09</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [자두나무](https://www.acmicpc.net/problem/2240)               |
+|               [수 묶기](https://www.acmicpc.net/problem/1744)            |
+|               [불](https://www.acmicpc.net/problem/5427)               |
+|               [소문난 칠공주](https://www.acmicpc.net/problem/1941)          |
+</details>
 
