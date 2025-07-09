@@ -500,3 +500,15 @@
 |               [소문난 칠공주](https://www.acmicpc.net/problem/1941)          |
 </details>
 
+<details>
+    <summary><strong>✈️ 37주차: 2025-07-09 ~ 2025-07-16</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [가장 긴 짝수 연속한 부분 수열](https://www.acmicpc.net/problem/22857)               |
+|               [랜선 자르기](https://www.acmicpc.net/problem/1654)            |
+|               [포도주 시식](https://www.acmicpc.net/problem/2156)               |
+|               [영역 구하기](https://www.acmicpc.net/problem/2583)          |
+|               [N과 M5](https://www.acmicpc.net/problem/15654)          |
+</details>
