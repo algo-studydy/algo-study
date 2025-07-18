@@ -512,3 +512,16 @@
 |               [영역 구하기](https://www.acmicpc.net/problem/2583)          |
 |               [N과 M5](https://www.acmicpc.net/problem/15654)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 38주차: 2025-07-17 ~ 2025-07-23</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [부분합](https://www.acmicpc.net/problem/1806)               |
+|               [미로 탈출](https://www.acmicpc.net/problem/14923)            |
+|               [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)               |
+|               [색종이와 가위](https://www.acmicpc.net/problem/20444)          |
+|               [예산](https://www.acmicpc.net/problem/2512)          |
+</details>
