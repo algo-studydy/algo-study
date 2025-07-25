@@ -525,3 +525,16 @@
 |               [색종이와 가위](https://www.acmicpc.net/problem/20444)          |
 |               [예산](https://www.acmicpc.net/problem/2512)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 39주차: 2025-07-24 ~ 2025-07-30</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [카드 합체 놀이](https://www.acmicpc.net/problem/15903)               |
+|               [수강신청](https://www.acmicpc.net/problem/13414)            |
+|               [키로거](https://www.acmicpc.net/problem/5397)               |
+|               [고층 건물](https://www.acmicpc.net/problem/1027)          |
+|               [배열 돌리기4](https://www.acmicpc.net/problem/17406)          |
+</details>
