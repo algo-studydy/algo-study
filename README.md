@@ -538,3 +538,15 @@
 |               [고층 건물](https://www.acmicpc.net/problem/1027)          |
 |               [배열 돌리기4](https://www.acmicpc.net/problem/17406)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 40주차: 2025-07-31 ~ 2025-08-06</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [극장 좌석](https://www.acmicpc.net/problem/2302)               |
+|               [Puyo Puyo](https://www.acmicpc.net/problem/11559)            |
+|               [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)               |
+|               [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)          |
+</details>
