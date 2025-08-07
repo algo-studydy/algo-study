@@ -550,3 +550,15 @@
 |               [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)               |
 |               [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 41주차: 2025-08-07 ~ 2025-08-13</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [경로 찾기](https://www.acmicpc.net/problem/11403)               |
+|               [호텔](https://www.acmicpc.net/problem/1106)            |
+|               [컵라면](https://www.acmicpc.net/problem/1781)               |
+|               [미친 아두이노](https://www.acmicpc.net/problem/8972)          |
+</details>
