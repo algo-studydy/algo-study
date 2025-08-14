@@ -562,3 +562,15 @@
 |               [컵라면](https://www.acmicpc.net/problem/1781)               |
 |               [미친 아두이노](https://www.acmicpc.net/problem/8972)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 41주차: 2025-08-13 ~ 2025-08-19</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [내려가기](https://www.acmicpc.net/problem/2096)               |
+|               [합이 0](https://www.acmicpc.net/problem/3151)            |
+|               [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)               |
+|               [줄 세우기](https://www.acmicpc.net/problem/7570)          |
+</details>
