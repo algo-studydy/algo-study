@@ -564,7 +564,7 @@
 </details>
 
 <details>
-    <summary><strong>✈️ 41주차: 2025-08-13 ~ 2025-08-19</strong></summary>
+    <summary><strong>✈️ 42주차: 2025-08-13 ~ 2025-08-19</strong></summary>
 <br/>
 
 |                                                   문제                                                    |
