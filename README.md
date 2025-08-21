@@ -574,3 +574,15 @@
 |               [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)               |
 |               [줄 세우기](https://www.acmicpc.net/problem/7570)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 43주차: 2025-08-20 ~ 2025-08-27</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [나무 재테크](https://www.acmicpc.net/problem/16235)               |
+|               [평범한 배낭](https://www.acmicpc.net/problem/12865)            |
+|               [동전](https://www.acmicpc.net/problem/9084)               |
+|               [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)          |
+</details>
