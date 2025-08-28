@@ -586,3 +586,16 @@
 |               [동전](https://www.acmicpc.net/problem/9084)               |
 |               [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 44주차: 2025-08-28 ~ 2025-09-03</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [물대기](https://www.acmicpc.net/problem/1368)               |
+|               [두 용액](https://www.acmicpc.net/problem/2470)            |
+|               [1로 만들기 2](https://www.acmicpc.net/problem/12852)               |
+|               [상어 초등학교](https://www.acmicpc.net/problem/21608)          |
+|               [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)    |
+</details>
