@@ -597,5 +597,5 @@
 |               [두 용액](https://www.acmicpc.net/problem/2470)            |
 |               [1로 만들기 2](https://www.acmicpc.net/problem/12852)               |
 |               [상어 초등학교](https://www.acmicpc.net/problem/21608)          |
-|               [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)    |
+|               [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)    |
 </details>
