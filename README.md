@@ -599,3 +599,15 @@
 |               [상어 초등학교](https://www.acmicpc.net/problem/21608)          |
 |               [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)    |
 </details>
+
+<details>
+    <summary><strong>✈️ 45주차: 2025-09-04 ~ 2025-09-10</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)               |
+|               [AC](https://www.acmicpc.net/problem/5430)            |
+|               [앱](https://www.acmicpc.net/problem/7579)               |
+|               [대표 선수](https://www.acmicpc.net/problem/2461)          |
+</details>
