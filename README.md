@@ -611,3 +611,15 @@
 |               [앱](https://www.acmicpc.net/problem/7579)               |
 |               [대표 선수](https://www.acmicpc.net/problem/2461)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 46주차: 2025-09-10 ~ 2025-09-17</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [선 긋기](https://www.acmicpc.net/problem/2170)               |
+|               [공주님의 정원](https://www.acmicpc.net/problem/2457)            |
+|               [원판 돌리기](https://www.acmicpc.net/problem/17822)               |
+|               [여행 가자](https://www.acmicpc.net/problem/1976)          |
+</details>
