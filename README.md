@@ -623,3 +623,16 @@
 |               [원판 돌리기](https://www.acmicpc.net/problem/17822)               |
 |               [여행 가자](https://www.acmicpc.net/problem/1976)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 47주차: 2025-09-18 ~ 2025-09-24</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [보석 도둑](https://www.acmicpc.net/problem/1202)               |
+|               [숨바꼭질 3](https://www.acmicpc.net/problem/13549)            |
+|               [세 용액](https://www.acmicpc.net/problem/2473)               |
+|               [도시 분할 계획](https://www.acmicpc.net/problem/1647)          |
+|               [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)          |
+</details>
