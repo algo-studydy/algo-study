@@ -636,3 +636,15 @@
 |               [도시 분할 계획](https://www.acmicpc.net/problem/1647)          |
 |               [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 48주차: 2025-09-25 ~ 2025-10-01</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [치즈](https://www.acmicpc.net/problem/2636)               |
+|               [운동](https://www.acmicpc.net/problem/1956)            |
+|               [우주신과의 교감](https://www.acmicpc.net/problem/1774)               |
+|               [가운데를 말해요](https://www.acmicpc.net/problem/1655)          |
+</details>
