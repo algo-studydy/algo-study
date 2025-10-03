@@ -648,3 +648,16 @@
 |               [우주신과의 교감](https://www.acmicpc.net/problem/1774)               |
 |               [가운데를 말해요](https://www.acmicpc.net/problem/1655)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 49주차: 2025-10-01 ~ 2025-10-15</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)               |
+|               [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)            |
+|               [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)               |
+|               [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)          |
+|               [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)          |
+</details>
