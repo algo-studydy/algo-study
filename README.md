@@ -661,3 +661,15 @@
 |               [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)          |
 |               [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 50주차: 2025-10-16 ~ 2025-10-22</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [List of Unique Numbers](https://www.acmicpc.net/problem/13144)               |
+|               [미로만들기](https://www.acmicpc.net/problem/2665)            |
+|               [수 고르기](https://www.acmicpc.net/problem/2230)               |
+|               [구간 나누기2](https://www.acmicpc.net/problem/13397)          |
+</details>
