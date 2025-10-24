@@ -673,3 +673,15 @@
 |               [수 고르기](https://www.acmicpc.net/problem/2230)               |
 |               [구간 나누기2](https://www.acmicpc.net/problem/13397)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 50주차: 2025-10-23 ~ 2025-10-29</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [전구와 스위치](https://www.acmicpc.net/problem/2138)               |
+|               [여행 가자](https://www.acmicpc.net/problem/1976)            |
+|               [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)               |
+|               [채굴](https://www.acmicpc.net/problem/15573)          |
+</details>
