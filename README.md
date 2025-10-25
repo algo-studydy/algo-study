@@ -675,7 +675,7 @@
 </details>
 
 <details>
-    <summary><strong>✈️ 50주차: 2025-10-23 ~ 2025-10-29</strong></summary>
+    <summary><strong>✈️ 51주차: 2025-10-23 ~ 2025-10-29</strong></summary>
 <br/>
 
 |                                                   문제                                                    |
