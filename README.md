@@ -685,3 +685,15 @@
 |               [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)               |
 |               [채굴](https://www.acmicpc.net/problem/15573)          |
 </details>
+
+<details>
+    <summary><strong>✈️ 52주차: 2025-10-29 ~ 2025-11-05</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [꿀 따기](https://www.acmicpc.net/problem/21758)               |
+|               [종이 조각](https://www.acmicpc.net/problem/14391)          |
+|               [암벽 등반](https://www.acmicpc.net/problem/2412)            |
+|               [선수과목](https://www.acmicpc.net/problem/14567)               |
+</details>
