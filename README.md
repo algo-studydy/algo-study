@@ -697,3 +697,15 @@
 |               [암벽 등반](https://www.acmicpc.net/problem/2412)            |
 |               [선수과목](https://www.acmicpc.net/problem/14567)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 53주차: 2025-11-07 ~ 2025-11-12</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [팀 빌](https://www.acmicpc.net/problem/22945)               |
+|               [용액](https://www.acmicpc.net/problem/2467)          |
+|               [서강그라운드](https://www.acmicpc.net/problem/14938)            |
+|               [빗물](https://www.acmicpc.net/problem/14719)               |
+</details>
