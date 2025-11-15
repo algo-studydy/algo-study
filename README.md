@@ -709,3 +709,15 @@
 |               [서강그라운드](https://www.acmicpc.net/problem/14938)            |
 |               [빗물](https://www.acmicpc.net/problem/14719)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 54주차: 2025-11-12 ~ 2025-11-19</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [기타 레슨](https://www.acmicpc.net/problem/2343)               |
+|               [비밀 모임](https://www.acmicpc.net/problem/13424)          |
+|               [행성 연결](https://www.acmicpc.net/problem/16398)            |
+|               [약수의 합](https://www.acmicpc.net/problem/17425)               |
+</details>
