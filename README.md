@@ -721,3 +721,15 @@
 |               [행성 연결](https://www.acmicpc.net/problem/16398)            |
 |               [약수의 합](https://www.acmicpc.net/problem/17425)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 55주차: 2025-11-20 ~ 2025-11-26</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [구슬 탈출](https://www.acmicpc.net/problem/13459)               |
+|               [두 배열의 합](https://www.acmicpc.net/problem/2143)          |
+|               [암호코드](https://www.acmicpc.net/problem/2011)            |
+|               [작업](https://www.acmicpc.net/problem/2056)               |
+</details>
