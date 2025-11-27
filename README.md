@@ -733,3 +733,15 @@
 |               [암호코드](https://www.acmicpc.net/problem/2011)            |
 |               [작업](https://www.acmicpc.net/problem/2056)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 56주차: 2025-11-27 ~ 2025-12-03</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [음악프로그램](https://www.acmicpc.net/problem/2623)               |
+|               [줄 세우기](https://www.acmicpc.net/problem/2252)          |
+|               [나만 안되는 연애](https://www.acmicpc.net/problem/14621)            |
+|               [죽음의 비](https://www.acmicpc.net/problem/22944)               |
+</details>
