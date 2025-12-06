@@ -745,3 +745,15 @@
 |               [나만 안되는 연애](https://www.acmicpc.net/problem/14621)            |
 |               [죽음의 비](https://www.acmicpc.net/problem/22944)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 57주차: 2025-12-04 ~ 2025-12-10</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [거짓말](https://www.acmicpc.net/problem/1043)               |
+|               [문자열 폭발](https://www.acmicpc.net/problem/9935)          |
+|               [피리 부는 사나이](https://www.acmicpc.net/problem/16724)            |
+|               [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)               |
+</details>
