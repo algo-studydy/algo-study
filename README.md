@@ -757,3 +757,15 @@
 |               [피리 부는 사나이](https://www.acmicpc.net/problem/16724)            |
 |               [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 58주차: 2025-12-10 ~ 2025-12-17</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [잃어버린 괄호](https://www.acmicpc.net/problem/1541)               |
+|               [공통 부분 문자열](https://www.acmicpc.net/problem/5582)          |
+|               [강의실 배정](https://www.acmicpc.net/problem/11000)            |
+|               [수열의 점수](https://www.acmicpc.net/problem/2036)               |
+</details>
