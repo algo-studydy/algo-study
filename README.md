@@ -769,3 +769,15 @@
 |               [강의실 배정](https://www.acmicpc.net/problem/11000)            |
 |               [수열의 점수](https://www.acmicpc.net/problem/2036)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 59주차: 2025-12-18 ~ 2025-12-24</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [가장 긴 짝수 부분 연속 수열](https://www.acmicpc.net/problem/22862)               |
+|               [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)          |
+|               [사냥꾼](https://www.acmicpc.net/problem/8983)            |
+|               [행복 유치원](https://www.acmicpc.net/problem/13164)               |
+</details>
