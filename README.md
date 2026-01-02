@@ -781,3 +781,15 @@
 |               [사냥꾼](https://www.acmicpc.net/problem/8983)            |
 |               [행복 유치원](https://www.acmicpc.net/problem/13164)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 60주차: 2026-01-01 ~ 2026-01-07</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [인구 이동](https://www.acmicpc.net/problem/16234)               |
+|               [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)          |
+|               [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)            |
+|               [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)               |
+</details>
