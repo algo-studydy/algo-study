@@ -793,3 +793,16 @@
 |               [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)            |
 |               [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)               |
 </details>
+
+<details>
+    <summary><strong>✈️ 61주차: 2026-01-07 ~ 2026-01-14</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [A와 B](https://www.acmicpc.net/problem/12904)               |
+|               [보물섬](https://www.acmicpc.net/problem/2589)               |
+|               [최소 회의실 개수](https://www.acmicpc.net/problem/19598)          |
+|               [연속합 2](https://www.acmicpc.net/problem/13398)            |
+
+</details>
