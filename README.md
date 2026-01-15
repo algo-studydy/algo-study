@@ -806,3 +806,15 @@
 |               [연속합 2](https://www.acmicpc.net/problem/13398)            |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 62주차: 2026-01-15 ~ 2026-01-21</strong></summary>
+<br/>
+
+|                                                   문제                                                    |
+| :-------------------------------------------------------------------------------------------------------: |
+|               [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)          |
+|               [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)               |
+|               [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)               |
+
+</details>
