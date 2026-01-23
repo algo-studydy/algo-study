@@ -818,3 +818,15 @@
 |               [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)               |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 63주차: 2026-01-22 ~ 2026-01-28</strong></summary>
+<br/>
+
+|                                        문제                                        |
+|:--------------------------------------------------------------------------------:|
+| [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  |
+| [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |
+|     [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)      |
+
+</details>
