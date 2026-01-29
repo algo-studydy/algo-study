@@ -830,3 +830,15 @@
 |     [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)      |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 64주차: 2026-01-29 ~ 2026-02-04</strong></summary>
+<br/>
+
+|                                        문제                                        |
+|:--------------------------------------------------------------------------------:|
+| [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)  |
+| [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) |
+|     [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)      |
+
+</details>
