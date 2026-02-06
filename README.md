@@ -825,8 +825,8 @@
 
 |                                        문제                                        |
 |:--------------------------------------------------------------------------------:|
-| [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  |
-| [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |
+|     [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  |
+|     [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |
 |     [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)      |
 
 </details>
@@ -837,8 +837,20 @@
 
 |                                        문제                                        |
 |:--------------------------------------------------------------------------------:|
-| [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)  |
-| [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) |
+|     [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)  |
+|     [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) |
 |     [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)      |
+
+</details>
+
+<details>
+    <summary><strong>✈️ 65주차: 2026-02-05 ~ 2026-02-11</strong></summary>
+<br/>
+
+|                                        문제                                        |
+|:--------------------------------------------------------------------------------:|
+|     [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  |
+|     [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |
+|     [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      |
 
 </details>
