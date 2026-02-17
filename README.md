@@ -854,3 +854,15 @@
 |     [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 66주차: 2026-02-12 ~ 2026-02-18</strong></summary>
+<br/>
+
+|                                        문제                                        |
+|:--------------------------------------------------------------------------------:|
+|      [공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198)      |
+| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
+|     [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)     |
+
+</details>
