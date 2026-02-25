@@ -1,37 +1,41 @@
 import java.util.*;
 
 class Solution {
-    public int solution(int[] mats, String[][] park) {
-        int r = park.length;
-        int c = park[0].length;
-        Arrays.sort(mats);
+    public int solution(int[] queue1, int[] queue2) {
+        Queue<Integer> q1 = new ArrayDeque<>();
+        Queue<Integer> q2 = new ArrayDeque<>();
+        long s1 = 0;
+        long s2 = 0;
 
-        // 가장 큰 돗자리부터 탐색
-        for (int m = mats.length - 1; m >= 0; m--) {
-            int size = mats[m];
-
-            // size 크기의 돗자리를 놓을 수 있는지 탐색
-            for (int i = 0; i <= r - size; i++) {
-                for (int j = 0; j <= c - size; j++) {
-
-                    boolean flag = true;
-
-                    for (int row = i; row < i + size; row++) {
-                        for (int col = j; col < j + size; col++) {
-                            if (!park[row][col].equals("-1")) {
-                                flag = false;
-                                break;
-                            }
-                        }
-                        if (!flag) break;
-                    }
-
-                    if (flag) {
-                        return size;
-                    }
-                }
-            }
+        for (int i = 0; i < queue1.length; i++) {
+            q1.offer(queue1[i]);
+            q2.offer(queue2[i]);
+            s1 += queue1[i];
+            s2 += queue2[i];
         }
-        return -1;
+
+        int answer = 0;
+        int maxCnt = queue1.length * 4; // 최대 탐색 횟수 설정
+
+        while (s1 != s2) {
+            if (answer > maxCnt) return -1;
+
+            if (s1 > s2) {
+                int num = q1.poll();
+                s1 -= num;
+                s2 += num;
+                q2.offer(num);
+            }
+
+            else {
+                int num = q2.poll();
+                s2 -= num;
+                s1 += num;
+                q1.offer(num);
+            }
+            answer++;
+        }
+
+        return answer;
     }
 }
