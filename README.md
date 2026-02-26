@@ -866,3 +866,16 @@
 |     [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)     |
 
 </details>
+
+
+<details>
+    <summary><strong>✈️ 67주차: 2026-02-25 ~ 2026-03-04</strong></summary>
+<br/>
+
+|                                        문제                                        |
+|:--------------------------------------------------------------------------------:|
+|      [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)      |
+| [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
+|     [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)     |
+
+</details>
