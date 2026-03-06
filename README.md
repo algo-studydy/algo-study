@@ -879,3 +879,15 @@
 |     [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)     |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 68주차: 2026-03-05 ~ 2026-03-11</strong></summary>
+<br/>
+
+|                                        문제                                        |
+|:--------------------------------------------------------------------------------:|
+|      [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199)      |
+| [주차 요금 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |
+|     [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)     |
+
+</details>
