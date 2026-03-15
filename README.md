@@ -891,3 +891,15 @@
 |     [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)     |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 69주차: 2026-03-12 ~ 2026-03-18</strong></summary>
+<br/>
+
+|                                     문제                                     |
+|:--------------------------------------------------------------------------:|
+| [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) |
+| [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |
+|  [베스트앨](https://school.programmers.co.kr/learn/courses/30/lessons/42579)   |
+
+</details>
