@@ -903,3 +903,15 @@
 |  [베스트앨](https://school.programmers.co.kr/learn/courses/30/lessons/42579)   |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 70주차: 2026-03-19 ~ 2026-03-25</strong></summary>
+<br/>
+
+|                                     문제                                     |
+|:--------------------------------------------------------------------------:|
+| [노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371) |
+| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |
+|  [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)   |
+
+</details>
