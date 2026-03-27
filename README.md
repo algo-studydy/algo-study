@@ -915,3 +915,15 @@
 |  [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)   |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 71주차: 2026-03-26 ~ 2026-04-01</strong></summary>
+<br/>
+
+|                                     문제                                     |
+|:--------------------------------------------------------------------------:|
+| [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) |
+| [바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373) |
+|  [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130)   |
+
+</details>
