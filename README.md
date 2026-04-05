@@ -927,3 +927,15 @@
 |  [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130)   |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 72주차: 2026-04-02 ~ 2026-04-08</strong></summary>
+<br/>
+
+|                                         문제                                          |
+|:-----------------------------------------------------------------------------------:|
+|       [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)       |
+|      [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)      |
+| [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)  |
+
+</details>
