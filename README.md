@@ -939,3 +939,15 @@
 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)  |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 73주차: 2026-04-09 ~ 2026-04-15</strong></summary>
+<br/>
+
+|                                         문제                                          |
+|:-----------------------------------------------------------------------------------:|
+|       [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)       |
+|      [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)      |)      |
+| [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)  |
+
+</details>
