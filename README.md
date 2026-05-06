@@ -951,3 +951,15 @@
 | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)  |
 
 </details>
+
+<details>
+    <summary><strong>✈️ 74주차: 2026-04-29 ~ 2026-05-06</strong></summary>
+<br/>
+
+|                                         문제                                          |
+|:-----------------------------------------------------------------------------------:|
+| 코드트리 simulation Lesson 1|
+| 코드트리 simulation Lesson 2|
+
+
+</details>
