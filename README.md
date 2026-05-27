@@ -976,7 +976,7 @@
 </details>
 
 <details>
-    <summary><strong>✈️ 74주차: 2026-05-14 ~ 2026-05-20</strong></summary>
+    <summary><strong>✈️ 76주차: 2026-05-14 ~ 2026-05-20</strong></summary>
 <br/>
 
 |                                         문제                                          |
@@ -987,7 +987,7 @@
 </details>
 
 <details>
-    <summary><strong>✈️ 74주차: 2026-05-21 ~ 2026-05-27</strong></summary>
+    <summary><strong>✈️ 77주차: 2026-05-21 ~ 2026-05-27</strong></summary>
 <br/>
 
 |                                         문제                                          |
@@ -998,7 +998,7 @@
 </details>
 
 <details>
-    <summary><strong>✈️ 74주차: 2026-05-28 ~ 2026-06-03</strong></summary>
+    <summary><strong>✈️ 78주차: 2026-05-28 ~ 2026-06-03</strong></summary>
 <br/>
 
 |                                         문제                                          |
