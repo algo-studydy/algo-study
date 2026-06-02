@@ -7,13 +7,11 @@ import java.util.StringTokenizer;
 
 public class Main {
     static List<Integer> list;
-    static int N, M;
+    static int N;
     static StringTokenizer st;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
         list = new ArrayList<>();
         recursive(0);
     }
