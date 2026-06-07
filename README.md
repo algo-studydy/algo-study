@@ -1008,3 +1008,17 @@
 
 
 </details>
+
+
+<details>
+    <summary><strong>✈️ 79주차: 2026-06-04 ~ 2026-06-10</strong></summary>
+<br/>
+
+|                                         문제                                          |
+|:-----------------------------------------------------------------------------------:|
+| 코드트리 backtracking Lesson 2|
+| 코드트리 backtracking Lesson 3|
+| 코드트리 backtracking Lesson 4|
+
+
+</details>
